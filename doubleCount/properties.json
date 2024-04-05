@@ -1,13 +1,14 @@
 {
-  "count": 
-    {
-      "datatype": "number",
-      "default": 1
-    },
-  "double":
-    {
-      "key": "double",
-      "datatype": "number",
-      "readonly": true
-    }
+  "ui": {
+    "datatype": "html"
+  },
+  "count": {
+    "datatype": "number",
+    "default": 1
+  },
+  "double": {
+    "key": "double",
+    "datatype": "number",
+    "readonly": true
+  }
 }
