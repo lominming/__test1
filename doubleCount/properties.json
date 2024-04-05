@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "key": "count",
+      "datatype": "number",
+      "default": 1
+    },
+    {
+      "key": "double",
+      "datatype": "number",
+      "readonly": true
+    }
+  ]
+}
